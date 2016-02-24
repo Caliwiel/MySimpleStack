@@ -1,4 +1,4 @@
-package dcll.acan;
+package dcll.ebou;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
