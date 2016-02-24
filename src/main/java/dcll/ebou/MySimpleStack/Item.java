@@ -2,6 +2,7 @@ package dcll.ebou.MySimpleStack;
 
 /**
  * Created by elodie on 24/02/16.
+ * lkjhgfdsdfghjkiuytgfddxcvbn
  */
 public class Item {
 
